@@ -1,1 +1,1 @@
-"this is file B -feature branch" 
+"this is file B -feature branch recursive merge" 
