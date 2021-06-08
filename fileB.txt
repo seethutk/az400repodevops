@@ -1,1 +1,1 @@
-"this is file B -version github" 
+"this is file B -feature branch" 
